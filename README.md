@@ -2,7 +2,7 @@
 
 Create google cloud account.
 
-Write the python docker requirement and yaml files
+Write the python docker requirement and yaml files and push them to git.
 
 enable container registry in gcp
 
